@@ -8,7 +8,7 @@ The objective is to predict whether a person has more chance of heart attack bas
 
 ### Data Set Information:
 
-The diabetes dataset contains 13 features:
+The dataset contains 13 features:
 
 - Age : Age of the patient
 - Sex : Sex of the patient
@@ -35,9 +35,9 @@ The target of the dataset :  <br>
 
 
 ## How to use it
-clone repo and run it
-heart_train.py is the script to train the data.
-deploy.py is the script for deployment.
+clone repo and run it <br>
+heart_train.py is the script to train the data. <br>
+heart_app.py is the script for deployment.
 
 ## Download
 The dataset can be downloaded from:
